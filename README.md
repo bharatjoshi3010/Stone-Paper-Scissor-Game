@@ -50,7 +50,12 @@ This app provides a fun and competitive way to challenge yourself and beat the h
 ---
 
 ## 📸 Screenshots
-
+![Main Screen](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/WIn.jpg)
+![Game](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/mainGame.jpg)
+![Warning](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/roundWarning.jpg)
+![Win](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/WIn.jpg)
+![Lose](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/lose.jpg)
+![draw](https://github.com/bharatjoshi3010/Stone-Paper-Scissor-Game/blob/main/Screenshot/tie.jpg)
 
 ---
 
