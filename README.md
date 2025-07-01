@@ -59,5 +59,3 @@ This app provides a fun and competitive way to challenge yourself and beat the h
 
 ---
 
-## 📁 Project Structure
-
